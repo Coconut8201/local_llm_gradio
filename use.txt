@@ -1,0 +1,4 @@
+main fastapi server: 
+   uvicorn main:app --port 2649 --host 163.13.201.153
+
+   
